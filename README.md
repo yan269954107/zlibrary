@@ -1,2 +1,2 @@
 # zlibrary
-an common android library
+a common android library
